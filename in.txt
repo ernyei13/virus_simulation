@@ -1,0 +1,13 @@
+golyo: 200
+meret: 5
+curve: n
+lines: y
+ChanceOfInf: 100
+die: n
+ChanceOfDie: -
+linese: y
+inputData: y
+fps: y
+screensize: 
+
+
